@@ -7,4 +7,5 @@ women => vi-men
 determin => du-tuh-min // for 1
 handsome => han-some // for more than 1
 capacity => kuh-pa-suh-tee
+actually => ak-chu-lee
 ?>
