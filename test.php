@@ -12,4 +12,5 @@ mosque => mawsk
 vehicle => vee-uh-kl
 video => vi-dee-oh
 data => day-ta
+cupboard => kuh-bud
 ?>
