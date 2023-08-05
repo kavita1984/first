@@ -9,4 +9,5 @@ handsome => han-some // for more than 1
 capacity => kuh-pa-suh-tee
 actually => ak-chu-lee
 mosque => mawsk
+vehicle => vee-uh-kl
 ?>
