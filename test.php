@@ -10,4 +10,6 @@ capacity => kuh-pa-suh-tee
 actually => ak-chu-lee
 mosque => mawsk
 vehicle => vee-uh-kl
+video => vi-dee-oh
+data => day-ta
 ?>
