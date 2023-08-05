@@ -14,4 +14,7 @@ video => vi-dee-oh
 data => day-ta
 cupboard => kuh-bud
 heart => haat
+archive => aa-kaiv
+technology => tek-naw-luh-jee
+zebra => zee-bruh
 ?>
