@@ -1,4 +1,2 @@
 line1 
-
-test2
-testline2
+line2
