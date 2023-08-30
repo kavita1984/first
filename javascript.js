@@ -1,4 +1,4 @@
-1 // variables
+1 ) variables
 
 const accountId = 144553
 let accountEmail = "hitesh@google.com"
@@ -21,7 +21,7 @@ because of issue in block scope and functional scope
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
 
-2 // data Types
+2 ) data Types
 
 "use strict"; // treat all JS code as newer version
 
@@ -51,7 +51,7 @@ let state;
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
 
-3 // conversion Operation
+3 ) conversion Operation
 
 // let score = "hitesh"
 
